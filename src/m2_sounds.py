@@ -39,5 +39,4 @@ def main():
 
     talker = rb.Speech('hello')
     talker.speak()
-
 main()
